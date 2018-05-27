@@ -1,3 +1,26 @@
+# Project Name: Event lifecycle and Customer Lifetime Value (CLV) Deep Analysis
+
+## Problem Statement: A leading conference company has thousands of annual sponsors over fifty events that come to meet tens of thousands of paid attendees, speakers and guests. This project analyzes and distinguishes the characteristics of the most loyal attendees and sponsors. In addition to this, the analysis aims to predict the lifecycle of the events and the elements that contribute to smarter marketing and operational decisions.
+
+### Data science Hypothesis(es)/solutions considering: Using attendee and sponsor data as well as event characteristics allows us to single out clients who return year on year and look at their distinguishing features. Merging event data to attendee data allows for a price-point analysis as well as a correlation per each event type.
+
+### Data sets to be used:
+> 1. Event Attendees (Orders.csv)
+> 2. Event Information (Events.csv)
+> 3. (Optional) CIS codes
+
+### Descriptive Data dictionaries for date types:
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+### Potential buiness cases for the project: Understanding the types of attendees that are more likely to attend an event allows marketing and sales teams to better focus their efforts on prospects whose decision they are more likely to influence. For example, identifying characteristics of a event sponsor with a high potential for a long partership with the company, could trigger a longer nurturing camapign and result in hundreds of thousands of dollars in revenue from this single client. Similarly, identifying a client who is unlikely to return for many events in this capacity could save the company time and effort. Moreover, understanding the lifecycle and the elements that contibute to the rise or decline of events can greatly help in the decision to further invest or divert investment from such products. 
+
+### Potential stakeholders: This analysis is critical for all operational decision makers of the company - from the CEO to marketing and sales leaders - a better understanding of the events and attendees can contribute to smarter choices in terms of invetments of time and money. Specifically, this project is to be shared with the company CEO, Managing Director of the local office, Head of Marketing of the Americas and Heads of Sales of both Sponsors and Delegates.
+
+### Potential places to share results of this project: This project is intended as an internal analysis for this specific company and is mostly to be used for such purposes. A similar analysis can however be used for similar companies with multiple prpducts who could be interested in better understanding their clients lifecycles and identifying prospects with a higher potential for high lifetime revenue.
+
 *Proposal requirements:*
 
 > 1. Project Name: Title for your project 

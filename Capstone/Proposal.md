@@ -106,9 +106,7 @@ Num_SPKRs | *int64* | | Number of speakers at the event
 
 ### Leading Questions/Thoughs:
 
-Are these types of companies (SIC) that pay more or less to attend conferences?
-
-Geography? Proximity to event?
+Do certain types of companies (SIC) that pay more or less to attend conferences?
 
 Does price point correlate to event size?
 
@@ -125,6 +123,16 @@ Return analysis – Are you more likely to come again if you purchase via consul
 
 Break down this analysis for Sponsors! Majority of revenue.
 
+Geography? Proximity to event? (if possible to append Geo data on attendes)
+
+•	Avg. price point of returning sponsors vs. new sponsors to the event.
+•	Are sponsors more likely to come back after large event?
+•	% of returning vs new based on event size and industry.
+•	Is there a correlation between more attendees and more sponsors?
+
+Average price  - growth or decline and avg price point? Correlation?
+
+Event size – is there a (and what is) plateau for event size and revenue. 
 
 
 
@@ -139,17 +147,6 @@ Break down this analysis for Sponsors! Majority of revenue.
 > 6. Potential stakeholders who would find this interesting: who would be your ideal customer or client for this?
 > 7. Potential places to share your results post project (client, world, website, blog)
 
-*Deliverable: Monday, May 14*
+*Deliverable:*
 > 1. To be pushed to github
 > 2. To be submitted as a markdown readme.md file in your project-final repository
-
-
-•	Avg. price point of returning sponsors vs. new sponsors to the event.
-•	Are sponsors more likely to come back after large event?
-•	% of returning vs new based on event size and industry.
-•	Is there a correlation between more attendees and more sponsors?
-
-Average price  - growth or decline and avg price point? Correlation?
-
-Event size – is there a (and what is) plateau for event size and revenue. 
-

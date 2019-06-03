@@ -15,8 +15,11 @@ Please note that there are 8 seperate files - train and test tiles as well as 6 
 ## Decritpion of files:
 
 1_Wrangling - data grouping of supplemental financial variables. Data imputing. 
-2_EDA and Early ML - Addressing data concerns. Regression, Random Forest and out-of-the-box GXB,
+
+2_EDA and Early ML - Addressing data concerns. Regression, Random Forest and out-of-the-box GXB.
+
 3_XGBOOST Optimization - Bayesian Optimization for final XGB Classification.
+
 4_Kaggle Submission - Applying safe featuring engineering to test file for submission to Kaggle.
 
 
